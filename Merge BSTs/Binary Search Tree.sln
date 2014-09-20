@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Merge BSTs", "Merge BSTs.vcxproj", "{F451633E-0EE8-4C93-8706-E2694BCEF582}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Swap Nodes", "..\Swap Nodes\Swap Nodes.vcxproj", "{C82FD7C6-708E-4C0F-AC95-12428BD5CE5F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Construct BST from PreOrder", "..\Construct BST from PreOrder\Construct BST from PreOrder.vcxproj", "{C7B1FF0E-75F7-4F6A-AFB8-694509B776E2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Find Pair given Sum", "..\Find Pair given Sum\Find Pair given Sum.vcxproj", "{430BEED2-F0C4-4EB9-AAE1-74C9887B6C87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F451633E-0EE8-4C93-8706-E2694BCEF582}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F451633E-0EE8-4C93-8706-E2694BCEF582}.Debug|Win32.Build.0 = Debug|Win32
+		{F451633E-0EE8-4C93-8706-E2694BCEF582}.Release|Win32.ActiveCfg = Release|Win32
+		{F451633E-0EE8-4C93-8706-E2694BCEF582}.Release|Win32.Build.0 = Release|Win32
+		{C82FD7C6-708E-4C0F-AC95-12428BD5CE5F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C82FD7C6-708E-4C0F-AC95-12428BD5CE5F}.Debug|Win32.Build.0 = Debug|Win32
+		{C82FD7C6-708E-4C0F-AC95-12428BD5CE5F}.Release|Win32.ActiveCfg = Release|Win32
+		{C82FD7C6-708E-4C0F-AC95-12428BD5CE5F}.Release|Win32.Build.0 = Release|Win32
+		{C7B1FF0E-75F7-4F6A-AFB8-694509B776E2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{C7B1FF0E-75F7-4F6A-AFB8-694509B776E2}.Debug|Win32.Build.0 = Debug|Win32
+		{C7B1FF0E-75F7-4F6A-AFB8-694509B776E2}.Release|Win32.ActiveCfg = Release|Win32
+		{C7B1FF0E-75F7-4F6A-AFB8-694509B776E2}.Release|Win32.Build.0 = Release|Win32
+		{430BEED2-F0C4-4EB9-AAE1-74C9887B6C87}.Debug|Win32.ActiveCfg = Debug|Win32
+		{430BEED2-F0C4-4EB9-AAE1-74C9887B6C87}.Debug|Win32.Build.0 = Debug|Win32
+		{430BEED2-F0C4-4EB9-AAE1-74C9887B6C87}.Release|Win32.ActiveCfg = Release|Win32
+		{430BEED2-F0C4-4EB9-AAE1-74C9887B6C87}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
